@@ -5,7 +5,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/a.js"
+            "program": "${workspaceRoot}/servTS.js"
         }
     ],
     "compounds": []
