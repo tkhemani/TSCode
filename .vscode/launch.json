@@ -2,11 +2,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "node2",
+            "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/a.js",
-            "cwd": "${workspaceRoot}"
+            "program": "${workspaceRoot}/a.js"
         }
-    ]
+    ],
+    "compounds": []
 }

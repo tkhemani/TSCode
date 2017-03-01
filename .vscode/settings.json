@@ -7,6 +7,8 @@
         "**/.DS_Store": true,
         "**/*.{js,js.map}": true
     },
+    "tslint.enable": true,
     "tslint.autoFixOnSave": true,
-    "tslint.rulesDirectory": "./tslint.json"
+    "tslint.run":"onType"
+    //"tslint.rulesDirectory": "./tslint.json"
 }
