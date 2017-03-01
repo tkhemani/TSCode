@@ -1,0 +1,23 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkhemani/TSCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkhemani/TSCode/issues"
+  },
+  "homepage": "https://github.com/tkhemani/TSCode#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.5"
+  }
+}
