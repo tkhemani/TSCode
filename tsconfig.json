@@ -2,7 +2,33 @@
     "compilerOptions": {
         "module": "commonjs",
         "sourceMap": true,
-        "target": "es2016"
+        "target": "es2016",
+        "allowJs": false,
+        "allowSyntheticDefaultImports": false,
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "alwaysStrict": true,
+        "experimentalDecorators": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "noEmitOnError": true,
+        "noImplicitThis": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "pretty": true,
+        "watch": true,
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "es2015",
+            "es2016",
+            "es5",
+            "es6",
+            "es7",
+            "es2017",
+            "scripthost",
+            "webworker"
+        ]
     },
     "exclude": [
         "node_modules"
